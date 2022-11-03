@@ -5,3 +5,4 @@ Dos itens solicitados não foram entregues os seguintes:
 - Ordenação por valor;
 - Implementação do CRUD
 - Foi gerado apenas uma API Rest para o Token
+- Não foi realizado a integração com o Front
